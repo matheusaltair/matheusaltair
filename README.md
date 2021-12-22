@@ -2,7 +2,7 @@
 
 ### My name is Matheus Altair!
 
-Desenvolvedor Back-End
+#### Back-End Developer, systems analysis and development student
 
 ## 👦 About me 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusaltair/)](https://www.linkedin.com/in/matheusaltair/)
@@ -25,7 +25,8 @@ Desenvolvedor Back-End
 
 ## :nerd_face: Studing
 
-<code><img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" width="70" height="20"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="30" height="30"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"  width="30" height="30"/></code>
 <code><img height="20" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></code>
 
