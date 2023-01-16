@@ -23,12 +23,3 @@
 
 <code><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"  width="70" height="20"/></code>
 <code><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" width="70" height="20"/></code>
-
-
-## Status
-
-<div>
-<a href="https://github.com/matheusaltair">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusaltair&layout=compact&langs_count=7&theme=dracula"/>
-
-
