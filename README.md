@@ -2,7 +2,7 @@
 
 ### My name is Matheus Altair!
 
-#### Mobile Developer, systems analysis and development student
+#### Mobile Developer, systems analysis and development
 
 ## 👦 About me 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusaltair/)](https://www.linkedin.com/in/matheusaltair/)
