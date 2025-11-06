@@ -71,4 +71,33 @@ I’ve worked on projects such as **VPNs, download managers, e-commerces, and fi
 
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]()
-[![Redux](https://img.shields.io/badge/
+[![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)]()
+[![API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=swagger&logoColor=white)]()
+
+---
+
+### 🎾 **Sports Scheduler**
+> An intuitive **sports court booking app** featuring **calendar integration**, **notifications**, and **real-time availability**.  
+> Focused on delivering a **seamless booking experience** with modern UI and smooth animations.
+
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)]()
+[![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)]()
+
+---
+
+## 💡 What I Do
+- Develop **mobile applications** with **React Native & TypeScript**  
+- Integrate APIs and third-party services efficiently  
+- Implement **state management (Redux, Context API)**  
+- Build **responsive layouts**, animations, and smooth navigation  
+- Maintain and improve **apps already in production**
+
+---
+
+## 📈 GitHub Stats
+
+![Matheus Altair GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusaltair&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusaltair&layout=compact&theme=react)
+
