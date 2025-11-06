@@ -6,8 +6,12 @@
 ---
 
 ## 👦 About Me  
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusaltair/)](https://www.linkedin.com/in/matheusaltair/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:matheusaltair13@gmail.com)](mailto:matheusaltair13@gmail.com)
+<a href="https://www.linkedin.com/in/matheusaltair/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+</a>
+<a href="mailto:devmatheus1@outlook.com" target="_blank">
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Badge" />
+</a>
 
 I'm a **Mobile Developer** passionate about creating **modern, high-performance apps** using **React Native** and **TypeScript**.  
 I focus on **clean code, scalability, and smooth user experiences**, delivering reliable mobile solutions for different sectors.  
