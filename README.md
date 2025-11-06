@@ -94,10 +94,3 @@ I’ve worked on projects such as **VPNs, download managers, e-commerces, and fi
 - Build **responsive layouts**, animations, and smooth navigation  
 - Maintain and improve **apps already in production**
 
----
-
-## 📈 GitHub Stats
-
-![Matheus Altair GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusaltair&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusaltair&layout=compact&theme=react)
-
